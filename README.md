@@ -1,6 +1,6 @@
 # 🚀 Employee Management System
 
-A scalable **Employee Management System** built with **NestJS**, **TypeORM**, and **PostgreSQL**. The system is designed to manage employees, departments, tasks, attendance, leave requests, and client interactions using **Role-Based Access Control (RBAC)** and **JWT Authentication**.
+A **Employee Management System** built with **NestJS**, **TypeORM**, and **PostgreSQL**. The system is designed to manage employees, departments, tasks, attendance, leave requests, and client interactions using **Role-Based Access Control (RBAC)** and **JWT Authentication**.
 
 ## ✨ Features
 
